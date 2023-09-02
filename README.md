@@ -1,13 +1,6 @@
-# [Code Screenshot](https://code-ss.pages.dev/)
+# [Code Screenshot]
 
 A fully functional Ray.so clone (a powerful tool for sharing code snippets) with additional features. Share beautiful screenshots of your code on your social media platforms.
-
-**Project live at:** [https://code-ss.pages.dev/](https://code-ss.pages.dev/)
-
-**Complete tutorial/walkthrough available on my Youtube channel:**
-[![Thumbnail](https://i.ibb.co/XJMbhLG/code-ss-thumbnail.png)](https://youtu.be/F0AfwegcXBY)
-
----
 
 ## Features
 
